@@ -1,0 +1,13 @@
+C:\Users\José Gabriel\source\repos\7mo programa\7mo programa\obj\Debug\netcoreapp3.1\7mo programa.csprojAssemblyReference.cache
+C:\Users\José Gabriel\source\repos\7mo programa\7mo programa\obj\Debug\netcoreapp3.1\7mo programa.AssemblyInfoInputs.cache
+C:\Users\José Gabriel\source\repos\7mo programa\7mo programa\obj\Debug\netcoreapp3.1\7mo programa.AssemblyInfo.cs
+C:\Users\José Gabriel\source\repos\7mo programa\7mo programa\obj\Debug\netcoreapp3.1\7mo programa.csproj.CoreCompileInputs.cache
+C:\Users\José Gabriel\source\repos\7mo programa\7mo programa\bin\Debug\netcoreapp3.1\7mo programa.exe
+C:\Users\José Gabriel\source\repos\7mo programa\7mo programa\bin\Debug\netcoreapp3.1\7mo programa.deps.json
+C:\Users\José Gabriel\source\repos\7mo programa\7mo programa\bin\Debug\netcoreapp3.1\7mo programa.runtimeconfig.json
+C:\Users\José Gabriel\source\repos\7mo programa\7mo programa\bin\Debug\netcoreapp3.1\7mo programa.runtimeconfig.dev.json
+C:\Users\José Gabriel\source\repos\7mo programa\7mo programa\bin\Debug\netcoreapp3.1\7mo programa.dll
+C:\Users\José Gabriel\source\repos\7mo programa\7mo programa\bin\Debug\netcoreapp3.1\7mo programa.pdb
+C:\Users\José Gabriel\source\repos\7mo programa\7mo programa\obj\Debug\netcoreapp3.1\7mo programa.dll
+C:\Users\José Gabriel\source\repos\7mo programa\7mo programa\obj\Debug\netcoreapp3.1\7mo programa.pdb
+C:\Users\José Gabriel\source\repos\7mo programa\7mo programa\obj\Debug\netcoreapp3.1\7mo programa.genruntimeconfig.cache
