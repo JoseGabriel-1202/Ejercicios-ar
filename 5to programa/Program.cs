@@ -11,22 +11,20 @@ namespace _5to_programa
         {
              string[] Nombre = new string[100];
 
-             int i = 0;
+             int abc = 0;
              do
              {
                  Console.WriteLine("Ingrese un nombre: ");
+                abc += 1;
+                 Nombre[abc] = Convert.ToString(Console.ReadLine());
 
-                 Nombre[i] = Console.ReadLine();
+            } 
+             while (Nombre[abc] != "");
 
-             } 
-             while (Nombre[i] != "");
-
-             Console.WriteLine("fin");
-
-
-             for ( i = 0; i < 99; i++)
+             
+             for ( abc = 1; abc < 100; abc++)
              {
-                 Console.WriteLine("posicion " +i+ " : " + Nombre[i]);
+                 Console.WriteLine("posicion " + abc+ " : " + Nombre[abc]);
              }
              Console.ReadKey();
         
